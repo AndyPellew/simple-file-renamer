@@ -1,0 +1,14 @@
+C:\vss\SimpleFileRenamer\SimpleFileRenamer\bin\Debug\SimpleFileRenamer.exe
+C:\vss\SimpleFileRenamer\SimpleFileRenamer\bin\Debug\SimpleFileRenamer.pdb
+C:\vss\SimpleFileRenamer\SimpleFileRenamer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vss\SimpleFileRenamer\SimpleFileRenamer\obj\x86\Debug\SimpleFileRenamer.exe
+C:\vss\SimpleFileRenamer\SimpleFileRenamer\obj\x86\Debug\SimpleFileRenamer.pdb
+C:\vss\SimpleFileRenamer\SimpleFileRenamer\bin\Debug\Settings.txt
+C:\MyApps\SimpleFileRenamer\SimpleFileRenamer\obj\x86\Debug\SimpleFileRenamer.exe
+C:\MyApps\SimpleFileRenamer\SimpleFileRenamer\obj\x86\Debug\SimpleFileRenamer.pdb
+C:\MyApps\SimpleFileRenamer\SimpleFileRenamer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MyApps\SimpleFileRenamer\SimpleFileRenamer\bin\Debug\Settings.txt
+C:\MyApps\SimpleFileRenamer\SimpleFileRenamer\bin\Debug\SimpleFileRenamer.exe
+C:\MyApps\SimpleFileRenamer\SimpleFileRenamer\bin\Debug\SimpleFileRenamer.pdb
+C:\MyApps\simple-file-renamer\SimpleFileRenamer\obj\x86\Debug\SimpleFileRenamer.exe
+C:\MyApps\simple-file-renamer\SimpleFileRenamer\obj\x86\Debug\SimpleFileRenamer.pdb
